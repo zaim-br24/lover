@@ -82,7 +82,7 @@ const steps: Step[] = [
   {
     image: "/images/11.jpg",
     question: "Do you remember laughing until nothing else mattered? 😂",
-    yesReaction: "That laughter was my happiness ❤️",
+    yesReaction: "That laughter was my happiness ❤️❤️",
     noReaction: "I wish I could hear that laugh again…",
   },
   {
